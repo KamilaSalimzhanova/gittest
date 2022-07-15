@@ -1,4 +1,5 @@
 #Hi
+#my name is Kamila
 def print_rangoli(size):
     # your code goes here
     alphabet = 'abcdefghijklmnopqrstuvwxyz'
